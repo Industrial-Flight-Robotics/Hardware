@@ -1,2 +1,2 @@
-# Hardware-CAD-Drawings-
+### Hardware
 KiCAD Hardware Repo
